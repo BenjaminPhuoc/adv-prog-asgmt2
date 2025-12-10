@@ -92,7 +92,7 @@ Initial Code/
 
 ## Student Tasks
 
-Students must implement the following classes:
+Students must implement the following classes (see details in `Assignment 2 - Specification - v1.1.pdf`):
 
 -   `HoseAdapter.java`
     -   Fetches stock data from `HosePriceFetchLib`.
